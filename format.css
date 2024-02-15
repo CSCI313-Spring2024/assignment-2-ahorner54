@@ -1,0 +1,101 @@
+.Biography{
+    text-align: center
+}
+
+.Schedule {
+    text-align: center;
+    border: 1px;
+}
+
+.FavHeader {
+    padding-bottom: 20px;
+}
+
+.FavHeader > span{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+th{
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    width: 40px;
+    height: 40px;
+}
+
+td {
+    width: 40px;
+}
+
+tr, th, td {
+    font-family: "Crimson Text", serif;
+}
+
+.Outside{
+    border-right-width: 1px;
+}
+
+.Inner{
+    border-width: 1px;
+}
+
+.CSCI372{
+    height: 150%
+}
+
+.boxy{
+
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.BioHead{
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    height: 10px;
+}
+
+ul > li {
+    width: 60%;
+    font-family: "Crimson Text", serif;
+    font-size: 20px;
+}
+
+ol > li {
+    width: 60%;
+    font-family: "Crimson Text", serif;
+    font-size: 20px;
+}
+
+.Movies > li{
+    margin-top:5px;
+    margin-bottom: 15px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+footer{
+    padding: 40px;
+    margin-top: auto;
+}
+
+.Activities > li{
+    border: 0px;
+}
+
+.Websites > li{
+    border: 0px;
+}
+
+p {
+    font-family: "Crimson Text", serif;
+    font-size: 18px;
+}
+
+span{
+    font-family: "Crimson Text", serif;
+}
